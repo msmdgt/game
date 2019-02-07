@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: "Century Gothic";
+    font-size: 16px;
+    text-align: center;
+}
+header {
+  background-color: #26d0c9;
+  color: #fff;
+  text-align: center;
+  line-height: 90px;
+  height: 90px;
+  box-shadow: 0 0 10px 1px #e3e3e3;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+footer {
+  text-align: center;
+  padding-top: 30px;
+}
+#container {
+    text-align: center;
+    margin: 5px auto;
+}
+#btn {
+    margin: 3px auto;
+    width: 200px;
+    padding: 5px;
+    background: #00AAFF;
+    color: #FFFFFF;
+    border-radius: 3px;
+    cursor: pointer;
+    box-shadow: ;
+}
+#btn:hover {
+    opacity: 0.8;
+}
